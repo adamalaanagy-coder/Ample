@@ -24,3 +24,13 @@ Thumbs.db
 # Large / regenerable outputs
 *.pptx.bak
 build/
+
+# Ample work material — NOT for a public repo.
+# Contains HubSpot deal data, contract values, installer and colleague names,
+# site addresses and protected EPC-derived data pointers.
+# Do not remove these lines until this repository is set to PRIVATE.
+docs/reference/
+scripts/cluster_park_homes.py
+*handover*.md
+*marketing-d2c*.md
+*park-homes*
